@@ -6,6 +6,11 @@ order: 2
 ---
 
 
+{% include embed/project.html title='WM-ABench'
+                              image='/assets/img/wm-abench-icon.png'
+                              lqip='data:image/webp;base64,UklGRuYAAABXRUJQVlA4WAoAAAAQAAAADgAADwAAQUxQSFEAAAARL6CQbQQ4NJP7FC4igu0KGESS5GT+FSQDEQMUBqDGvyuSg4j+TwD3GciBVgq9RBqni0rL6thIu3pUuNSDH9KurkDLaow0TheFVgq9RMhA5iEAVlA4IG4AAABwAgCdASoPABAABUB8JbACdAYtH8rM/a9cFd6AAN/D+b3NG0r0xc3zqFpnLii4V8mIxiEmUzlZ7tOCilT+lEk1EbBEmVC3AugXmFCF7m31SJZrWIoSVG/VmFrFCrDwXocX9y0LIpYYew7oUwAAAA=='
+                              content='An atomic evaluation of the world modeling abilities of Vision-Language Models'
+                              url='https://wm-abench.maitrix.org/' %}
 {% include embed/project.html title='SimWorld'
                               image='/assets/img/simworld-icon.png'
                               lqip='data:image/webp;base64,UklGRuoAAABXRUJQVlA4WAoAAAAQAAAADwAADgAAQUxQSGYAAAARL6CobSM2ViKlcPO/IyJQkk+4jSRJkfrAAHz9UH8aAw5G/4+e9t+YOSMi+j8BAI4N+cPUFKJdwO9x0XyvaRHu3GghObexk+RjOR2pXb5M+3CGJF3fv263510FJgPGkLwE0Lw/BQBWUDggXgAAAPABAJ0BKhAADwAFQHwlsAJ0Bi7mFPIAAAD99wUJMagCd+4D2JaORA4UcFVOXnFRhHe2YosaxsC7jP/lnBH9vMmwGZikYfm7P7ndxkvcCSttArevVeICw+namAK4AAA='

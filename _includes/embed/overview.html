@@ -14,6 +14,9 @@
   <a href="{{ url }}" class="post-preview row g-0 h-100">
     <div class="overview-body card-body d-flex">
       <div class="justify-center flex flex-col w-100">
+        {% if include.show_new %}
+          <span class="show-new">NEW!!</span>
+        {% endif %}
         {% if title_image %}
           <div class="flex justify-center text-center items-center mb-2">
             <img class="overview-title-img" src="{{ title_image }}" alt="{{ alt }}" {{ lqip }}>

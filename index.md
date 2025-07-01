@@ -33,6 +33,12 @@ layout: home
                                caption='Library and Evaluation of State-of-the-art Advanced Reasoning with LLMs'
                                url='https://llm-reasoners.net/' %}
 ## Benchmarks
+{% include embed/overview.html title='WM-ABench'
+                               image='/assets/img/wm-abench-icon.png'
+                               lqip='data:image/webp;base64,UklGRuYAAABXRUJQVlA4WAoAAAAQAAAADgAADwAAQUxQSFEAAAARL6CQbQQ4NJP7FC4igu0KGESS5GT+FSQDEQMUBqDGvyuSg4j+TwD3GciBVgq9RBqni0rL6thIu3pUuNSDH9KurkDLaow0TheFVgq9RMhA5iEAVlA4IG4AAABwAgCdASoPABAABUB8JbACdAYtH8rM/a9cFd6AAN/D+b3NG0r0xc3zqFpnLii4V8mIxiEmUzlZ7tOCilT+lEk1EbBEmVC3AugXmFCF7m31SJZrWIoSVG/VmFrFCrDwXocX9y0LIpYYew7oUwAAAA=='
+                               caption='An atomic evaluation of the world modeling abilities of Vision-Language Models'
+                               url='https://wm-abench.maitrix.org/'
+                               show_new=1 %}
 {% include embed/overview.html title='MMToM-QA'
                                image='/assets/img/MMTOMQA-icon.png'
                                lqip='data:image/webp;base64,UklGRuoAAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSFQAAAARL6CobSM2Vy5FMG69LiICun6CTSTJquaBgI855yiAczz/Yh5oiOj/BACJwh3/KwcGERENn9OTiFcNPrP67BO4A2tg8OnEc8HrlFD9IpcCqmPRRAJWUDggcAAAAPABAJ0BKhAAEAAFQHwlAE6AxVq6juhuAADwIvI9E88DKnWE1d5gfNDmQsU0s7UKMH9MpciTw3LbhtCb9rhCoFaayw8b3516cF07fF1opq9SUzjGmtqPOZlzkghqT6rdwJq4li5b4FyVkZ9/hHz6EAA='
